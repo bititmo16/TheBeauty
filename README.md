@@ -1,12 +1,12 @@
 ## Welcome to Beauty Page
 Ngày 06 tháng 12 năm 2018, ngày đó, ngày định mệnh, ngày bắt đầu cho một tình yêu đẹp nhất, ngày mà vợ chính thức bước vào cuộc đời của chồng <3
 
-Câu trên là đang ngôn tình các bạn ạ, àhu. Dưới đây mới là sự thật của tình yêu đó này
+Câu trên là đang ngôn tình các bạn ạ, àhu. Dưới đây mới là sự thật này !!!!!
 
 
-### Real Fact
+### Real Facts
 
-Để định nghĩa một tình yêu đẹp, nó phải có những yếu tố sau:
+Để định nghĩa cho một tình yêu đẹp, phải có những yếu tố sau:
 
 ```markdown
 Trai: Nguyễn Văn Quang (Sún)
@@ -19,7 +19,7 @@ Cách xưng hô theo từng cung bậc tình cảm:
   + Bắt đầu dấu hiệu tán tỉnh: t + chú;
   + Bắt đầu yêu              : người đẹp + chú;
   + Yêu nhau được một thgian : vợ + chồng;
-  + Sau sau này be like      : mẹ + bố, bà + ông, tui + ông, khu mấn + khu mấn,...
+  + Sau này maybe            : mẹ + bố, bà + ông, tui + ông, khu mấn + khu mấn,...
   + Khi giận nhau            : .....................
  
 ```
